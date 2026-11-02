@@ -124,7 +124,7 @@ in about eight seconds.
 ## Series
 
 This is the only module of the series: the whole tour in one video. Related series on the same channel:
-image generation in Open WebUI with ComfyUI ([module 1](https://github.com/guilhem-/clic-par-clic-comfyui-01-brancher)).
+image generation in Open WebUI with ComfyUI ([module 1](https://github.com/guilhembon/clic-par-clic-comfyui-01-brancher)).
 
 ## License
 
